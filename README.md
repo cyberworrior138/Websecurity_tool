@@ -1,42 +1,61 @@
 # Websecurity_tool
 Educational Python tool for basic web security information gathering.
-# ⚡ MR.VIRUS TOOLKIT ⚡
 
-<p align="center">
-🚀 Simple • Powerful • Educational Security Toolkit
-</p>
+
+                                                                                                           
+                                                                                                              
+# ⚡ WEB SECURITY TOOL ⚡
+
+🚀 Simple • Powerful • Educational Web Security Toolkit
+👨‍💻 Developer
+
+Mr.Virus 🇹🇿
+Cyber Security Learner
+
+Instagram: @unknown_virus404x
+GitHub: cyberworrior138
+
+# ⚡ WEB SECURITY TOOL ⚡
+
+🚀 Simple • Powerful • Educational Web Security Toolkit
 
 ---
 
-## 🧠 About
-**MR.VIRUS TOOLKIT** is a security and networking toolkit built for **learning and testing purposes**.  
-It is designed for students and beginners who are learning **ethical hacking and cybersecurity**.
+## 📌 About
+**WEB SECURITY TOOL** is an educational security and networking tool created for **learning, testing, and practice purposes**.  
+It is mainly designed for beginners who are learning **ethical hacking and cybersecurity**.
 
-> ⚠️ **DISCLAIMER:**  
-> This tool is provided for **EDUCATIONAL PURPOSES ONLY**.  
-> Any misuse or illegal activity is strictly prohibited. The user is fully responsible for their actions.
+⚠️ **DISCLAIMER**  
+This tool is for **EDUCATIONAL PURPOSES ONLY**.  
+Any illegal or unethical use is strictly prohibited. The user is fully responsible for their actions.
 
 ---
 
 ## 🧪 Tested & Working On
-✔ Ubuntu Linux  
-✔ Termux (Android)
+- Ubuntu Linux  
+- Termux (Android)
 
 ---
 
 ## 🛠 Requirements
-- Python 3.x                                                                                                                       installion
-- Git  git clone https://github.com/USERNAME/MR-VIRUS-TOOLKIT.git
-cd MR-VIRUS-TOOLKIT
-pip install -r requirements.txt                                                                              
+- Python 3.x  
+- Git  
+- Linux / Termux environment  
 
-- Linux or Termux environment  
+---
 
-### Termux Setup
+## ⬇️ Installation
 ```bash
-pkg update && pkg upgrade
-pkg install python git                                                                                                      
-     usage                                                                                                                        python Main.py
+git clone https://github.com/cyberworrior138/Websecurity_tool.git
+cd Websecurity_tool
+pip install -r requirements.txt
 
-                                                                                                           
-                                                                                                              
+## ▶️ Usage
+```bash
+python Main.py
+
+
+
+
+
+
